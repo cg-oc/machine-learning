@@ -217,7 +217,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-
-
-# repo with hte iamges used in the program
-images/
+# TXT file for pseudo-todo-list
+.afazeres.txt
