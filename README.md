@@ -63,7 +63,6 @@ Aluno do segundo semestre de Ciência e Tecnologia, na Ilum Escola de Ciência
 ## 🎓 Docente
 
   **Prof. Dr. Daniel Roberto Cassar**
-  - **Contato:** `daniel.cassar@ilum.cnpem.br`
   - **GitHub:** [https://github.com/drcassar](https://github.com/drcassar)
   ---
 
@@ -71,23 +70,18 @@ Aluno do segundo semestre de Ciência e Tecnologia, na Ilum Escola de Ciência
   ## 🌟 Agradecimentos
 
   **Edélio Gabriel**
-  - **Contato:** `edelio25024@ilum.cnpem.br`
   - **GitHub:** [https://github.com/EdelioGabriel](https://github.com/EdelioGabriel)
   ---
   **João Pires**
-  - **Contato:** `joaovitorpsouza11@gmail.com`
   - **GitHub:** [https://github.com/joaosouza11](https://github.com/joaosouza11)
   ---
   **Jônatas Rafel**
-  - **Contato:** `jonatas25028@ilum.cnpem.br`
   - **GitHub:** [https://github.com/jonatas727](https://github.com/jonatas727)
   ---
   **Rômulo Emanuel**
-  - **Contato:** `romulo24024@ilum.cnpem.br`
   - **GitHub:** [https://github.com/romulorcruz](https://github.com/romulorcruz)
   ---
   **Vinícius Marques**
-  - **Contato:** `vinicius2610042@ilum.cnpem.br`
   - **GitHub:** [https://github.com/ViniCutolo](https://github.com/ViniCutolo)
   ---
 
